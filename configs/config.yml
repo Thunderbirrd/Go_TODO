@@ -1,1 +1,8 @@
 port: "8000"
+
+db:
+  username: "phpeqmxypnsxxd"
+  host: "ec2-52-211-108-161.eu-west-1.compute.amazonaws.com"
+  port: "5432"
+  sslmode: "require"
+  dbname: "deco4dmu38kbqs"
